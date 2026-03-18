@@ -216,10 +216,10 @@ This will generate a Windows installer for the application.
 ## 👨‍💻 Authors
 
 
-Prabhat Joshi
-Swastik Chamola
-Daksh Yadav
-Shiven 
+Prabhat Joshi<br>
+Swastik Chamola<br>
+Daksh Yadav<br>
+Shiven<br>
 
 
 ---
