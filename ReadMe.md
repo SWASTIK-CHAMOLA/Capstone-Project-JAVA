@@ -150,7 +150,7 @@ OnlineExamSystem/
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/prabhat-joshi-official/Capstone-Project-JAVA.git
+git clone https://github.com/yourusername/online-examination-system.git
 ```
 
 ### 2. Open Project
@@ -213,8 +213,14 @@ This will generate a Windows installer for the application.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
 Prabhat Joshi
-
+Swastik Chamola
+Daksh Yadav
+Shiven 
 ---
+
+## 📄 License
+
+This project is developed for educational purposes and can be modified or extended for academic use.
